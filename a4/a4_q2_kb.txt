@@ -1,0 +1,121 @@
+actuarial_science <-- statistics & economics
+
+anthropology <-- social & history & society & progression
+
+applied_mathematics <-- statistics & computer_science & physics
+
+applied_physics <-- physics & society & math
+
+archaeology <-- exploring & history & biology
+
+art_performance_and_cinema_studies <-- social & creative 
+
+behavioural_neuroscience <-- biology & psychology & social
+
+biological_physics <-- biology & physics & society
+
+biological_sciences <-- biology & nature
+
+biomedical_physiology <-- biology & human_anatomy 
+
+business <-- problem_solving & economics & society & social
+
+chemical_physics <-- chemistry & physics
+
+cognitive_science <-- psychology & computer_science & philosophy
+
+communication <-- social & hisotry & society
+
+computer_science <-- technology & problem_solving
+
+creative_technologies_in_digital_journalism <-- communication & technology
+
+criminology <-- crime & law & society
+
+dance <-- outgoing & creative
+
+data_science <-- computer_science & statistics & business
+
+earth_sciences <-- geology & exploring
+
+economics <-- society & math
+
+engineering_science <-- math & computer_science & society
+
+english <-- literature & history & society
+
+environmental_science <-- earth_sciences & society
+
+film <-- creative & technology
+
+first_nations_studies <-- history & society
+
+french <-- literature & history & society
+
+french_cohort_program <-- french & immersive
+
+gender_sexuality_and_Womens_studies <-- society & gender & law
+
+general_studies_in_education <-- teaching & learning
+
+geographic_information_science <-- computer_science & environmental_science
+
+global_environmental_systems <-- environmental_science & climate & statistics
+
+health_sciences_ba <-- biology & environmental_science & health
+
+health_sciences_bsc <-- health_sciences_ba
+
+human_geography <-- society & earth_sciences
+
+humanities <-- philosophy & society & history
+
+interactive_arts_and_technology <-- computer_science & creative 
+
+international_studies <-- learning & exploring & travelling
+
+kinesiology <-- biology & physiology & health
+
+labour_studies <-- society & history & progress
+
+linguistics <-- literature & history
+
+mathematical_physics <-- math & physics
+
+mathematics <-- math
+
+mechatronic_systems_engineering <-- math & computer_science
+
+molecular_biology_and_biochemistry <-- biology
+
+music <-- creative
+
+operations_Research <-- computer_science & society & math
+
+philosophy <-- logic & exploring
+
+physical_geography <-- environmental_science
+
+physics <-- math & movement_of_atoms
+
+political_science <-- politics & society
+
+psychology <-- study_of_mind & biology
+
+resource_and_environmental_management <-- business & environmental_science
+
+sociology <-- criminology & gender_sexuality_and_Womens_studies
+
+software_systems <-- computer_science & society
+
+statistics <-- math & probability
+
+sustainable_energy_engineering <-- computer_science & earth_sciences & society
+
+theatre <-- dance & film
+
+visual_art <-- theatre
+
+world_literature <-- literature & exploring
+
+nature <-- exploring & outgoing
